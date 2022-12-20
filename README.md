@@ -21,7 +21,10 @@
 3. **Phân tích**:
 - Để có một đội hình mạnh chúng ta cần các vị tướng trong đội hình phải có sự kết hợp tốt, giá trị của các đơn vị phải cao, trang bị phù hợp,....
 - Ta cần phải thu thập dữ liệu của các vị tướng, các hệ tộc trong game (dữ liệu có thể bao gồm giá trị quân cờ, tộc hệ nó có thể kích hoạt, trang bị cần thiết, tỉ lệ thắng, ...).
-- Xử lí dữ liệu để có thể đưa ra được tiêu chuẩn để đánh giá một đội hình.
+- Xử lí dữ liệu để có đưa ra các thông số:
++ Tỉ lệ chọn các lõi nâng cấp, tỉ lệ thắng của lõi nâng cấp
++ Vị trí trung bình, tỉ lệ top1, 4 của các vị tướng.
++ Các trang bị thường được dùng.
 
 4. **Dự đoán**:
 - Dự đoán được 1 đội hình mạnh hay không.
