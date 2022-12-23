@@ -1,72 +1,28 @@
-	Trait
-0	 Spellslinger
-1	 Star Guardian
-2	 Mascot
-3	 LaserCorps
-4	 Ox Force
-5	 Renegade
-6	 Brawler
-7	 Aegis
-8	 Mascot
-9	 Duelist
-10	 Aegis
-11	 Forecaster
-12	 Corrupted
-13	 Heart
-14	 Spellslinger
-15	 Mecha:PRIME
-16	 Prankster
-17	 Sureshot
-18	 Civilian
-19	 Arsenal
-20	 Heart
-21	 Aegis
-22	 Mascot
-23	 Ox Force
-24	 Anima Squad
-25	 Civilian
-26	 Star Guardian
-27	 Recon
-28	 Threat
-29	 Star Guardian
-30	 Ace
-31	 A.D.M.I.N.
-32	 Prankster
-33	 Aegis
-34	 Heart
-35	 LaserCorps
-36	 Spellslinger
-37	 Duelist
-38	 Hacker
-39	 Star Guardian
-40	 Brawler
-41	 Civilian
-42	 A.D.M.I.N.
-43	 Supers
-44	 Gadgeteen
-45	 LaserCorps
-46	 Ace
-47	 Hacker
-48	 Sureshot
-49	 Hacker
-50	 Defender
-51	 Defender
-52	 Ox Force
-53	 Recon
-54	 Ox Force
-55	 Anima Squad
-56	 Duelist
-57	 Spellslinger
-58	 A.D.M.I.N.
-59	 Duelist
-60	 Brawler
-61	 Recon
-62	 Renegade
-63	 Mecha:PRIME
-64	 Anima Squad
-65	 Defender
-66	 Mascot
-67	 Brawler
-68	 Underground
-69	 Gadgeteen
-70	 Underground
+0
+ Spellslinger
+ Star Guardian
+ Mascot
+ LaserCorps
+ Ox Force
+ Renegade
+ Brawler
+ Aegis
+ Duelist
+ Forecaster
+ Corrupted
+ Heart
+ Mecha:PRIME
+ Prankster
+ Sureshot
+ Civilian
+ Arsenal
+ Anima Squad
+ Recon
+ Threat
+ Ace
+ A.D.M.I.N.
+ Hacker
+ Supers
+ Gadgeteen
+ Defender
+ Underground
