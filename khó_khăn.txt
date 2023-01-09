@@ -1,4 +1,4 @@
-khó khăn khi gặp phải: 
+a.	Khó khăn gặp phải:
 
 +người chơi đổi tên làm cho việc đọc dữ liệu từ api khó khăn hơn.
 
@@ -9,3 +9,11 @@ khó khăn khi gặp phải:
 +vì truyền dữ liệu list vào file csv nên dữ liệu tự đổi sang string(object). Vì thế phải sử dụng thư viện ast để chuyển đổi string qua lại list
 
 +Gặp khó khăn với việc tìm công thức chính xác để dự đoán vị trí trung bình của một đối tượng
+
+b.	Kiến thức học được
+
++Một quy trình hoàn chỉnh về 1 đồ án liên quan đến khoa học dữ liệu.
+
++sử dụng github và Trello để quản lý nhóm và làm việc hiệu quẩ.
+
++Hiểu biết sâu hơn về tập dữ liệu thu thập được.
