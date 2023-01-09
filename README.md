@@ -25,3 +25,5 @@
 4. **Ứng dụng**:
 - Tìm những những combo tướng đi với nhau mạnh để dễ dàng tạo đội hình mạnh.
 - Xác định những nhóm tướng trong game (bao gồm tướng tank, dame, phép, đa dụng) để có thể đặt tướng vào các vị trí thích hợp và có lối lên đồ hợp lí.
+
+link trello: https://trello.com/b/xM1M6ZRa/tft-project
