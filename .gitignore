@@ -1,3 +1,9 @@
 Data_Match
 data_augments_tft_csv.csv
 data_comp_tft_csv.csv
+data_model_csv.csv
+data_summoner_tft_csv.csv
+item_tft_csv.csv
+process_data_tft_each_item_csv.csv
+process_data_tft_general_csv.csv
+TocHe.csv
