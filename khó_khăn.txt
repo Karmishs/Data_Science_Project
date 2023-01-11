@@ -1,11 +1,11 @@
-khó khăn khi gặp phải: 
+Khó khăn khi gặp phải: 
 
-+người chơi đổi tên làm cho việc đọc dữ liệu từ api khó khăn hơn.
++ người chơi đổi tên làm cho việc đọc dữ liệu từ api khó khăn hơn.
 
-+Nhà phát hành thay đổi mã người chơi(Puuid) theo 1 khoảng thời gian nhất định làm cho việc truy vết tên người chơi theo mã puuid không hợp lệ. Dẫn đến những hệ lụy như: mã Puuid nhiều hơn số lượng người chơi thu thập được; số trận đấu của 1 người chơi tương ứng có thể thấp hơn 20 trận đấu.
++ Nhà phát hành thay đổi mã người chơi(Puuid) theo 1 khoảng thời gian nhất định làm cho việc truy vết tên người chơi theo mã puuid không hợp lệ. Dẫn đến những hệ lụy như: mã Puuid nhiều hơn số lượng người chơi thu thập được; số trận đấu của 1 người chơi tương ứng có thể thấp hơn 20 trận đấu.
 
 + Nhà phát hành ban lệnh giới hạn(rate limits)(20 request mỗi s, 100 request mỗi 2 phút).  Do đó việc lấy dữ liệu sẽ rất tốn thời gian->dữ liệu không được phong phú như ý muốn.
 
-+vì truyền dữ liệu list vào file csv nên dữ liệu tự đổi sang string(object). Vì thế phải sử dụng thư viện ast để chuyển đổi string qua lại list
++ Vì truyền dữ liệu list vào file csv nên dữ liệu tự đổi sang string(object). Vì thế phải sử dụng thư viện ast để chuyển đổi string qua lại list
 
-+Gặp khó khăn với việc tìm công thức chính xác để dự đoán vị trí trung bình của một đối tượng
++ Gặp khó khăn với việc tìm công thức chính xác để dự đoán vị trí trung bình của một đối tượng
